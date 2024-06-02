@@ -140,3 +140,5 @@ Attach the [PBX Ring Generator](https://github.com/hharte/pbx_ring_gen) using fo
 # Other WE 755A Projects
 
 [WE 755A DTMF Converter](https://github.com/hharte/we755a_dtmf)
+
+[WE 755A Station Line Concentrator](https://github.com/hharte/we755a_slc)
